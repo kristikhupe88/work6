@@ -1,0 +1,115 @@
+.section {
+    width: 100%; 
+ }
+.div1 {
+    width: 1336px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 48px;
+}
+.div-style {
+    width: 716px;
+    height: 92px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+}
+.text1 {
+    font-size: 16px;
+    color: #282828;
+    text-align: center;
+    font-family: 'Inter';
+}
+.text2 {
+    font-size: 54px;
+    color: #282828;
+    text-align: center;
+    font-family: 'Inter';
+    margin-top: 4px;
+}
+.text3 {
+    font-size: 20px;
+    color: #5F6980;
+    text-align: center;
+    font-family: 'Inter';
+    
+}
+.div-style1 {
+    width: 760px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+    width: 1336px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex-container {
+    height: 908px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-between;
+    
+}
+.box {
+    width: 310px;
+    height: 430px;
+
+}
+.block {
+    width: 310px;
+    height: 168px;
+    margin-top: 16px;
+}
+.block1 {
+    width: 278px;
+    height: 108px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.text4 {
+    font-size: 18px;
+    color: #282828;
+    font-family: 'Inter';
+    margin-bottom: 4px;
+}
+.text5 {
+    font-size: 14px;
+    color: #3E3E59;
+    margin-bottom: 8px;
+    font-family: 'Inter';
+}
+.text6 {
+    font-size: 14px;
+    color: #5F6980;
+    font-family: 'Inter';
+
+}
+.icon {
+    width: 278px;
+    height: 36px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.icon1 {
+    width: 36px;
+    height: 36px;
+
+}
+.icon2 {
+    width: 36px;
+    height: 36px;
+
+}
+.icon3 {
+    width: 36px;
+    height: 36px;
+
+}
+
+
