@@ -112,4 +112,157 @@
 
 }
 
+.footer {
+    background-color: #53535354;
+    margin-top: 48px;
+    display: flex;
+}
+
+.footer-div1 {
+    width: 318.05px;
+    height: 221px;
+    margin-left: 164px;
+    margin-right: 144.95px;
+    margin-top: 108px;
+    margin-bottom: 183px;
+}
+.img-f1 {
+    width: 100px;
+    right: 64px;
+    padding-bottom: 32px;
+    margin-right: 218.05px;
+}
+.footer-p1 {
+    margin-bottom: 28px;
+    font-size: 14px;
+    color: #535353;
+    font-family: 'Inter';
+
+}
+.footer-icon{
+    width: 24px;
+    right: 24px;
+}
+.footer-icon1 {
+    width: 24px;
+    right: 24px;
+}
+.footer-icon2 {
+    width: 24px;
+    right: 24px;
+}
+.footer-div2 {
+    width: 136px;
+    height: 223px;
+    margin-top: 108px;
+    margin-bottom: 181px;
+    margin-right: 254px;
+}
+.footer-text1 {
+    font-size: 20px;
+    color:#1E1E1E;
+    font-family: 'Inter';
+    margin-bottom: 71px;
+    width: 136px;
+    height: 24px;
+}
+.footer-text2 {
+    font-size: 14px;
+    color: #535353;
+    margin-bottom: 15px;
+    width: 92px;
+    height: 17px;
+    font-family: 'Inter';
+}
+.footer-text3 {
+    font-size: 14px;
+    color: #535353;
+    margin-bottom: 15px;
+    width: 92px;
+    height: 48px;
+    font-family: 'Inter';
+
+}
+.footer-text4 {
+    font-size: 14px;
+    color: #535353;
+    width: 108px;
+    height: 48px;
+    font-family: 'Inter';
+}
+
+.footer-div3 {
+    width: 296.05px;
+    margin-right: 147px;
+    margin-top: 108px;
+    margin-bottom: 181px;
+}
+.div11 {
+    width: 199px;
+    height: 48px;
+}
+.activ {
+    margin-bottom: 55px;
+}
+.div3-text1 {
+    font-size: 20px;
+    color: #1E1E1E;
+    margin-bottom: 55px;
+    font-family: 'Inter';
+}
+
+
+
+.footer-div4 {
+    width: 107px;
+    height: 127.45px;
+    margin-top: 108px;
+    margin-bottom: 276.55px;
+    margin-right: 184px;
+}
+.div4-text1 {
+    font-size: 20px;
+    color: #1E1E1E;
+    width: 107px;
+    font-family: 'Inter';
+}
+.div4-text2 {
+    font-size:14px ;
+    color: #535353;
+    font-family: 'Inter';
+
+}
+..div4-text3 {
+    font-size:14px ;
+    color: #535353;
+    font-family: 'Inter';
+    
+
+
+}
+.div4-text4 {
+    font-size:14px ;
+    color: #535353;
+    font-family: 'Inter';
+
+}
+
+.langv-style {
+    background-color: #054A68;
+    width: 80px;
+    height: 45px;
+    padding-top: 14px;
+    padding-bottom: 14;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 58.45px;
+}
+.div4-text2 {
+    font-size: 14px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+
+}
+
+
 
